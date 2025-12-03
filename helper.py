@@ -130,7 +130,7 @@ def weight_v_height(df, sport):
         return temp_df
     else:
         return athelete_df
-    print('hell0')
+    
 
 
 def men_vs_women(df):
